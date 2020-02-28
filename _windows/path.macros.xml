@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JAVA_HOME" value="C:/Program Files/Java/jdk-11.0.6/bin" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/vinicius.monteiro/.m2/repository" />
+    <macro name="SPRINT_DATA_MONGODB_URI" value="mongodb+srv://benuser:benuser123@cluster0-5r1ol.mongodb.net/test?retryWrites=true&amp;w=majority" />
+  </component>
+</application>
